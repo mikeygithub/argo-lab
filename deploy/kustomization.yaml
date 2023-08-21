@@ -1,0 +1,5 @@
+commonLabels:
+  app: cago-lab
+
+resources:
+- deploy.yaml
